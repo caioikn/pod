@@ -222,7 +222,7 @@ main .sociais ul li img {
     }
 
     body::after {
-        left: 88%;
+        left: 83.5%;
         top: 79%;
     }
 
@@ -233,5 +233,15 @@ main .sociais ul li img {
     main {
         margin: 6.5rem 0 0 10rem;
         padding-top: 5.5rem;
+        width: 45rem;
+    }
+
+    main h1 {
+        font-size: 3.25rem;
+        line-height: 3.875rem;
+    }
+
+    main .sociais ul li img {
+        width: 8rem;
     }
 }
