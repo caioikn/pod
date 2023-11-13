@@ -12,8 +12,8 @@ Neste projeto, o objetivo era a criação de uma página inicial de acesso antec
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## Acesso ao projeto
-- URL da Solução:
-- Site no ar: 
+- URL da Solução: [Pod - Frontend Mentor](https://www.frontendmentor.io/solutions/pod-landing-page-com-validao-de-formulrio-usando-js-ofMRw2zwRc).
+- Site no ar: [Pod](https://pod-self.vercel.app/).
 
 ## Abrir e rodar o projeto
 1. Clone este repositório em sua máquina local ou baixe os arquivos clicando [aqui](https://github.com/caioikn/pod/archive/main/pod.zip).
